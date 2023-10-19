@@ -1,0 +1,68 @@
+{
+  "current": {
+    "shop_bg_color": "rgba(255,255,255,1)",
+    "border_color": "#151b33",
+    "regular_color": "#151b33",
+    "link_color": "#d4603c",
+    "link_hover_color": "#dbae73",
+    "heading_color": "#151b33",
+    "banner_heading_color": "#fcf1ef",
+    "divider_color": "#151b33",
+    "logo_text": "#fcf1ef",
+    "header_background": "#151b33",
+    "header_link_color": "#fcf1ef",
+    "header_link_hover_color": "#d4603c",
+    "header_cart_badge_color": "#dbae73",
+    "cart_background_color": "#fcf1ef",
+    "show_dropdown_shadow": true,
+    "dropdown_background": "#fcf1ef",
+    "dropdown_link_color": "#151b33",
+    "dropdown_link_hover_color": "#d4603c",
+    "footer_link_color": "#fcf1ef",
+    "footer_link_hover_color": "#151b33",
+    "footer_text_color": "#fcf1ef",
+    "review_star": "#151b33",
+    "sale_color": "#d4603c",
+    "was_price_color": "#151b33",
+    "product_hover_text_color": "#151b33",
+    "product_hover_bg_color": "#fcf1ef",
+    "banner_bestseller": "#dbae73",
+    "banner_comingsoon": "#151b33",
+    "banner_new": "#d4603c",
+    "banner_preorder": "#151b33",
+    "banner_sale": "#d4603c",
+    "banner_staffpick": "#151b33",
+    "qty_icon_color": "#fcf1ef",
+    "qty_icon_hover_color": "#fcf1ef",
+    "qty_background_color": "#151b33",
+    "qty_background_hover_color": "#151b33",
+    "button_primary_bg_color": "#151b33",
+    "button_primary_bg_color--highlight": "#151b33",
+    "button_primary_bg_color_transparency--highlight": 70,
+    "button_secondary_border_color": "#151b33",
+    "button_secondary_text_color": "#151b33",
+    "button_secondary_bg_color--highlight": "#151b33",
+    "button_secondary_border_color--highlight": "#151b33",
+    "button_link_text_color": "#151b33",
+    "button_link_text_color--highlight": "#fcf1ef",
+    "button_cart_bg_color": "#d4603c",
+    "button_cart_bg_color--highlight": "#dbae73",
+    "button_cart_text_color": "#fcf1ef",
+    "button_cart_text_color--highlight": "#fcf1ef",
+    "email_link": "libros787@gmail.com",
+    "facebook_link": "https:\/\/www.facebook.com\/libros787",
+    "instagram_link": "https:\/\/www.instagram.com\/libros787\/",
+    "twitter_link": "https:\/\/twitter.com\/libros787",
+    "content_for_index": [
+
+    ],
+    "blocks": {
+      "14060646107696862457": {
+        "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/judgeme_core\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+        "disabled": false,
+        "settings": {
+        }
+      }
+    }
+  }
+}
